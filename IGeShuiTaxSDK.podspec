@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
 
 
 s.name         = "IGeShuiTaxSDK"
-s.version      = "0.0.1"
-s.summary      = "IGeShuiTaxSDK 0.0.1"
-s.description  = "First of IGeShuiTaxSDK 0.0.1"
+s.version      = "0.0.2"
+s.summary      = "IGeShuiTaxSDK 0.0.2"
+s.description  = "IGeShuiTaxSDK 0.0.2"
 s.homepage     = "https://github.com/xinwang888/IGeShuiTaxSDK_iOS"
 s.license      = { :type => "MIT", :file => "LICENSE" }
 s.author       = { "xinwang" => "xupengxiang@51geshui.com" }
